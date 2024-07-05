@@ -8,9 +8,6 @@ Promonative is a React Native application built with Expo, designed for mobile d
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Scripts](#scripts)
-- [Dependencies](#dependencies)
-- [DevDependencies](#devdependencies)
 - [Contributing](#contributing)
 - [License](#license)
 
